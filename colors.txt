@@ -2,3 +2,5 @@ blue
 red
 orange 
 silver
+white
+black

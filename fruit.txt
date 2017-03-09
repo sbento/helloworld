@@ -1,3 +1,7 @@
 Apples
 Bananas
 Oranges
+grapes
+strawberries
+blueberries
+
