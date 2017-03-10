@@ -19,3 +19,4 @@ Test | Table
 ---- | -----
 content 1 | content 2
 first column | second column
+second row | second column
