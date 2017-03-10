@@ -1,5 +1,4 @@
 # helloworld
-#This is an <h1> tag
 <h1>Test header</h1>
 *Italic text*
 **bold test**
