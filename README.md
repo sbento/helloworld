@@ -12,5 +12,5 @@ git class
 
 <h3>Emoji</h3>
 
-:floppy_disk:
+:floppy_disk:  
 :computer:
