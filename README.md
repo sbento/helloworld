@@ -1,8 +1,8 @@
 # helloworld
 <h1>Test header</h1>
-*Italic text*
-**bold test**
-git class
+*Italic text* /n
+**bold test** /n
+git class /n
 <h2>ordered list</h2>
 1. one
 1. two
