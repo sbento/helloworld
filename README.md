@@ -8,7 +8,8 @@ git class
 1. two
 1. three
 	1. three a
-	1. three b
+	1. three b  
+
 <h3>Emoji</h3>
 
 :floppy_disk:
